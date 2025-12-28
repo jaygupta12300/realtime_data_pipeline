@@ -226,6 +226,16 @@ The dashboard will be available at `http://localhost:8501`
 - Top users/items count sliders
 - Toggle for raw data display
 
+Image :
+
+<img width="1715" height="876" alt="image" src="https://github.com/user-attachments/assets/6a1394e0-472d-4db1-87aa-b5d97d8843f1" />
+
+<img width="1713" height="870" alt="image" src="https://github.com/user-attachments/assets/1c9c3020-5675-4b5d-a0b4-d569688235bf" />
+
+<img width="1714" height="874" alt="image" src="https://github.com/user-attachments/assets/d3b3712e-14cf-4fee-89c7-cd2340e13451" />
+
+
+
 ---
 
 ### 4. Cleanup Checkpoints (Optional)
